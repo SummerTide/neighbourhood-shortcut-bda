@@ -1,6 +1,28 @@
 # Neighbourhood shortcuts in building damage assessment
 
-Code for the paper *Neighbourhood shortcuts in building damage assessment from very-high-resolution satellite imagery: diagnosis and a building-evidence plug-in* (submitted to Remote Sensing of Environment).
+Code accompanying the manuscript *Neighbourhood shortcuts in building damage assessment from very-high-resolution satellite imagery: diagnosis and a building-evidence plug-in*.
+
+**Authors:** JianChong Guo, YuTing Wan, Kefan Li, AiLong Ma, and YanFei Zhong.
+
+**Publication status:** Unpublished manuscript (2026); not yet accepted for publication. An arXiv link and updated citation will be added when available.
+
+## Citation
+
+If you use the evaluation protocol, building-evidence plug-in, or experimental code in academic work, please cite the manuscript below. Please also cite the original datasets and baseline methods used in your experiments.
+
+```bibtex
+@unpublished{guo2026neighbourhood,
+  title  = {Neighbourhood shortcuts in building damage assessment from very-high-resolution satellite imagery: diagnosis and a building-evidence plug-in},
+  author = {Guo, JianChong and Wan, YuTing and Li, Kefan and Ma, AiLong and Zhong, YanFei},
+  year   = {2026},
+  note   = {Unpublished manuscript},
+  url    = {https://github.com/SummerTide/neighbourhood-shortcut-bda}
+}
+```
+
+The repository URL above identifies the accompanying code. This is a provisional manuscript citation; it does not indicate journal acceptance or an assigned arXiv identifier.
+
+## Overview
 
 The repository contains three parts.
 
