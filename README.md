@@ -4,23 +4,25 @@ Code accompanying the manuscript *Neighbourhood shortcuts in building damage ass
 
 **Authors:** JianChong Guo, YuTing Wan, Kefan Li, AiLong Ma, and YanFei Zhong.
 
-**Publication status:** Unpublished manuscript (2026); not yet accepted for publication. An arXiv link and updated citation will be added when available.
+**Preprint:** [arXiv:2610.38162](https://arxiv.org/abs/2610.38162) (2026).
 
 ## Citation
 
 If you use the evaluation protocol, building-evidence plug-in, or experimental code in academic work, please cite the manuscript below. Please also cite the original datasets and baseline methods used in your experiments.
 
 ```bibtex
-@unpublished{guo2026neighbourhood,
-  title  = {Neighbourhood shortcuts in building damage assessment from very-high-resolution satellite imagery: diagnosis and a building-evidence plug-in},
-  author = {Guo, JianChong and Wan, YuTing and Li, Kefan and Ma, AiLong and Zhong, YanFei},
-  year   = {2026},
-  note   = {Unpublished manuscript},
-  url    = {https://github.com/SummerTide/neighbourhood-shortcut-bda}
+@misc{guo2026neighbourhood,
+  title         = {Neighbourhood shortcuts in building damage assessment from very-high-resolution satellite imagery: diagnosis and a building-evidence plug-in},
+  author        = {Guo, JianChong and Wan, YuTing and Li, Kefan and Ma, AiLong and Zhong, YanFei},
+  year          = {2026},
+  eprint        = {2610.38162},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2610.38162}
 }
 ```
 
-The repository URL above identifies the accompanying code. This is a provisional manuscript citation; it does not indicate journal acceptance or an assigned arXiv identifier.
+The arXiv link points to the preprint; this repository contains its accompanying code.
 
 ## Overview
 
